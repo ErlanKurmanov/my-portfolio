@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
+import ErlanImage from '../assets/images/Erlan.png';
 
 const Hero = () => {
   const textRef = useRef<HTMLHeadingElement>(null);
@@ -89,7 +90,7 @@ const Hero = () => {
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-indigo-500 shadow-xl shadow-indigo-500/20 animate-float">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
+                src={ErlanImage} 
                 alt="Erlan Kurmanov" 
                 className="w-full h-full object-cover"
               />

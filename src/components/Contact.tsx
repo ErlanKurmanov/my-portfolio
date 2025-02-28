@@ -84,7 +84,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium">{t('contact.location')}</h4>
-                  <p className="text-gray-400">San Francisco, CA</p>
+                  <p className="text-gray-400">Бишкек, Кыргызстан</p>
                 </div>
               </div>
               
@@ -94,7 +94,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-medium">{t('contact.phone')}</h4>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+996 555 112 655</p>
                 </div>
               </div>
             </div>

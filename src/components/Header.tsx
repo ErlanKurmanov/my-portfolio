@@ -33,7 +33,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a href="#" className="flex items-center space-x-2 text-xl font-bold text-indigo-400">
           <Code size={24} />
-          <span>Erlan Kurmanov</span>
+          
         </a>
         
         {/* Desktop Navigation */}

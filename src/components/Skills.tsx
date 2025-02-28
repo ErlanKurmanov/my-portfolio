@@ -12,7 +12,7 @@ const Skills = () => {
     { name: "Java" },
     { name: "Spring Boot" },
     { name: "RESTful APIs" },
-    { name: "SQL/NoSQL" },
+    { name: "SQL" },
     { name: "JPA" },
     { name: "Hibernate" },
     { name: "Git" }
