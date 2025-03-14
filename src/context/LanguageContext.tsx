@@ -19,13 +19,13 @@ const translations = {
     
     // Hero
     'hero.hello': 'Привет, я',
-    'hero.role': 'Java Backend Разработчик',
+    'hero.role': 'Backend Разработчик',
     'hero.cta': 'Мои работы',
     
     // About
     'about.title': 'Обо мне',
-    'about.p1': 'Привет! Я Эрлан Курманов, увлеченный Java Backend разработчик серверных приложений. Мне нравится решать сложные задачи и создавать эффективные решения, которые приносят пользу бизнесу.',
-    'about.p2': 'Имея прочную основу в Java и связанных технологиях, я специализируюсь на разработке высокопроизводительных бэкенд-систем и RESTful API. Я стремлюсь писать чистый, поддерживаемый код и следовать лучшим практикам в разработке программного обеспечения.',
+    'about.p1': 'Привет! Я Эрлан Курманов, увлеченный Backend разработчик серверных приложений. Мне нравится решать сложные задачи и создавать эффективные решения, которые приносят пользу бизнесу.',
+    'about.p2': 'Имея прочную основу в и связанных технологиях, я специализируюсь на разработке высокопроизводительных бэкенд-систем и RESTful API. Я стремлюсь писать чистый, поддерживаемый код и следовать лучшим практикам в разработке программного обеспечения.',
     // 'about.p3': 'Когда я не пишу код, вы можете найти меня изучающим новые технологии.',
     'about.cta': 'Связаться со мной',
     'about.backend': 'Backend Разработка',
@@ -66,7 +66,7 @@ const translations = {
     
     // Project titles and descriptions
     'project1.title': 'Backend для электронной коммерции',
-    'project1.desc': 'Включает в себя функцианалы: yправления товарами, пользователями, категориями, корзиной покупок, обработки заказов и т.д.',
+    'project1.desc': 'Включает в себя функциoналы: yправления товарами, пользователями, категориями, корзиной покупок, обработки заказов и т.д.',
     'project2.title': 'Система управления задачами',
     'project2.desc': 'Безопасный банковский API с управлением транзакциями, аутентификацией и комплексным логированием.',
     'project3.title': 'Консольные приложения',
@@ -84,13 +84,13 @@ const translations = {
     
     // Hero
     'hero.hello': 'Hello, I\'m',
-    'hero.role': 'Java Backend Developer',
+    'hero.role': 'Backend Developer',
     'hero.cta': 'View My Work',
     
     // About
     'about.title': 'About Me',
-    'about.p1': 'Hello! I\'m Erlan Kurmanov, a passionate Java Backend Developer with expertise in building server-side applications. I enjoy solving complex problems and creating efficient solutions that drive business value.',
-    'about.p2': 'With a strong foundation in Java and related technologies, I specialize in developing backend systems and RESTful APIs. I\'m committed to writing clean, maintainable code and following best practices in software development.',
+    'about.p1': 'Hello! I\'m Erlan Kurmanov, a passionate Backend Developer with expertise in building server-side applications. I enjoy solving complex problems and creating efficient solutions that drive business value.',
+    'about.p2': 'With a strong foundation in and related technologies, I specialize in developing backend systems and RESTful APIs. I\'m committed to writing clean, maintainable code and following best practices in software development.',
     'about.p3': 'When I\'m not coding, you can find me exploring new technologies.',
     'about.cta': 'Get In Touch',
     'about.backend': 'Backend Development',
@@ -130,14 +130,14 @@ const translations = {
     'footer.rights': 'All rights reserved.',
     
     // Project titles and descriptions
-    'project1.title': 'E-commerce backend cart',
-    'project1.desc': 'A scalable e-commerce platform built with Spring Boot, Spring Cloud, and Kafka for event-driven architecture.',
-    'project2.title': 'Banking API System',
-    'project2.desc': 'Secure banking API with transaction management, authentication, and comprehensive logging.',
-    'project3.title': 'Task Management System',
-    'project3.desc': 'A collaborative task management application with real-time updates and notifications.',
-    'project4.title': 'Content Management API',
-    'project4.desc': 'Headless CMS API with content versioning, role-based access control, and media management.'
+    'project1.title': 'E-commerce backend API',
+    'project1.desc': 'It includes functionalities: product management, user management, categories, shopping cart, order processing, etc.',
+    'project2.title': 'Task management system',
+    'project2.desc': '',
+    'project3.title': 'Console apps',
+    'project3.desc': '',
+    // 'project4.title': 'Content Management API',
+    // 'project4.desc': 'Headless CMS API with content versioning, role-based access control, and media management.'
   }
 };
 

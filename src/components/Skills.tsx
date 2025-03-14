@@ -11,15 +11,13 @@ const Skills = () => {
   const technicalSkills: Skill[] = [
     { name: "Java" },
     { name: "Spring Boot" },
-    { name: "RESTful APIs" },
-    { name: "SQL" },
+    { name: "PostgreSQL" },
     { name: "JPA" },
-    { name: "Hibernate" },
-    { name: "Git" }
+    
   ];
   
   const otherSkills = [
-    "Maven", "PostgreSQL"
+    "Maven", "PostgreSQL","Git", "PHP"
   ];
 
   return (
