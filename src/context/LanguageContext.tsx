@@ -26,7 +26,7 @@ const translations = {
     'about.title': 'Обо мне',
     'about.p1': 'Привет! Я Эрлан Курманов, увлеченный Java Backend разработчик серверных приложений. Мне нравится решать сложные задачи и создавать эффективные решения, которые приносят пользу бизнесу.',
     'about.p2': 'Имея прочную основу в Java и связанных технологиях, я специализируюсь на разработке высокопроизводительных бэкенд-систем и RESTful API. Я стремлюсь писать чистый, поддерживаемый код и следовать лучшим практикам в разработке программного обеспечения.',
-    'about.p3': 'Когда я не пишу код, вы можете найти меня изучающим новые технологии.',
+    // 'about.p3': 'Когда я не пишу код, вы можете найти меня изучающим новые технологии.',
     'about.cta': 'Связаться со мной',
     'about.backend': 'Backend Разработка',
     'about.backend.desc': 'Создание серверных приложений',
@@ -65,14 +65,14 @@ const translations = {
     'footer.rights': 'Все права защищены.',
     
     // Project titles and descriptions
-    'project1.title': 'E-Commerce Микросервисы',
-    'project1.desc': 'Масштабируемая платформа электронной коммерции, созданная с использованием Spring Boot, Spring Cloud и Kafka для архитектуры, управляемой событиями.',
-    'project2.title': 'Банковская API Система',
+    'project1.title': 'Backend для электронной коммерции',
+    'project1.desc': 'Включает в себя функцианалы: yправления товарами, пользователями, категориями, корзиной покупок, обработки заказов и т.д.',
+    'project2.title': 'Система управления задачами',
     'project2.desc': 'Безопасный банковский API с управлением транзакциями, аутентификацией и комплексным логированием.',
-    'project3.title': 'Система управления задачами',
-    'project3.desc': 'Приложение для совместного управления задачами с обновлениями и уведомлениями в реальном времени.',
-    'project4.title': 'API управления контентом',
-    'project4.desc': 'Headless CMS API с версионированием контента, контролем доступа на основе ролей и управлением медиа.'
+    'project3.title': 'Консольные приложения',
+    // 'project3.desc': 'Писал консольные приложения для освоении языка java.',
+    // 'project4.title': 'API управления контентом',
+    // 'project4.desc': 'Headless CMS API с версионированием контента, контролем доступа на основе ролей и управлением медиа.'
   },
   en: {
     // Header
@@ -130,7 +130,7 @@ const translations = {
     'footer.rights': 'All rights reserved.',
     
     // Project titles and descriptions
-    'project1.title': 'E-Commerce Microservices',
+    'project1.title': 'E-commerce backend cart',
     'project1.desc': 'A scalable e-commerce platform built with Spring Boot, Spring Cloud, and Kafka for event-driven architecture.',
     'project2.title': 'Banking API System',
     'project2.desc': 'Secure banking API with transaction management, authentication, and comprehensive logging.',

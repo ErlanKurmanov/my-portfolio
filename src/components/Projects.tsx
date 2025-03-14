@@ -21,36 +21,37 @@ const Projects = () => {
       id: 1,
       titleKey: "project1.title",
       descKey: "project1.desc",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      tags: ["Java", "Spring Boot", "Spring Cloud", "Kafka", "Docker"],
-      github: "https://github.com/ErlanKurmanov",
-      demo: "https://example.com"
+      image: "https://m.media-amazon.com/images/G/31/amazonservices/Blog/What_is_an_E-commerce_business.jpg",
+      tags: ["Java", "Spring Boot", "Spring Data JPA", "PostgreSQL"],
+      github: "https://github.com/ErlanKurmanov/backend-of-shop",
+      // demo: "https://example.com"
     },
     {
       id: 2,
       titleKey: "project2.title",
       descKey: "project2.desc",
-      image: "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      tags: ["Java", "Spring Security", "JPA", "PostgreSQL", "JUnit"],
-      github: "https://github.com/ErlanKurmanov"
+      image: "https://www.meistertask.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F289344%2F2640x900%2F536bd0b3c4%2Fmeistertask_homepage-hero_en.png%2Fm%2F%3Fv%3D2&w=1920&q=75",
+      tags: ["Java", "Spring Boot", "Spring Security", "JPA", "Spring Data JPA", "PostgreSQL"],
+      github: "https://github.com/ErlanKurmanov",
+      
     },
     {
       id: 3,
       titleKey: "project3.title",
-      descKey: "project3.desc",
-      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
-      tags: ["Java", "Spring WebFlux", "MongoDB", "WebSockets", "React"],
-      github: "https://github.com/ErlanKurmanov",
-      demo: "https://example.com"
+      descKey: "", //project3.desc
+      image: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/153340517/original/d5e94cf15651551a9d136831f5c33d64f4c2d4ea/create-java-console-base-programs-for-you.png",
+      tags: ["Java"],
+      github: "https://github.com/ErlanKurmanov/Console-apps/tree/master/src",
+      // demo: "https://example.com"
     },
-    {
-      id: 4,
-      titleKey: "project4.title",
-      descKey: "project4.desc",
-      image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      tags: ["Java", "Spring Boot", "MySQL", "Redis", "AWS S3"],
-      github: "https://github.com/ErlanKurmanov"
-    }
+    // {
+    //   id: 4,
+    //   titleKey: "project4.title",
+    //   descKey: "project4.desc",
+    //   image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    //   tags: ["Java", "Spring Boot", "MySQL", "Redis", "AWS S3"],
+    //   github: "https://github.com/ErlanKurmanov"
+    // }
   ];
 
   return (

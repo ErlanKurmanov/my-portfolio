@@ -21,9 +21,9 @@ const About = () => {
             <p className="text-lg text-gray-300">
               {t('about.p2')}
             </p>
-            <p className="text-lg text-gray-300">
+            {/* <p className="text-lg text-gray-300">
               {t('about.p3')}
-            </p>
+            </p> */}
             
             <div className="pt-4">
               <a 
