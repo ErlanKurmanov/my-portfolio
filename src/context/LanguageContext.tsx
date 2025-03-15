@@ -25,7 +25,7 @@ const translations = {
     // About
     'about.title': 'Обо мне',
     'about.p1': 'Привет! Я Эрлан Курманов, увлеченный Backend разработчик серверных приложений. Мне нравится решать сложные задачи и создавать эффективные решения, которые приносят пользу бизнесу.',
-    'about.p2': 'Я специализируюсь на разработке бэкенд-систем и RESTful API. Я стремлюсь писать чистый, поддерживаемый код и следовать лучшим практикам в разработке программного обеспечения.',
+    'about.p2': 'Я специализируюсь на разработке бэкенд-систем. Я стремлюсь писать чистый, поддерживаемый код и следовать лучшим практикам в разработке программного обеспечения.',
     // 'about.p3': 'Когда я не пишу код, вы можете найти меня изучающим новые технологии.',
     'about.cta': 'Связаться со мной',
     'about.backend': 'Backend Разработка',
@@ -90,7 +90,7 @@ const translations = {
     // About
     'about.title': 'About Me',
     'about.p1': 'Hello! I\'m Erlan Kurmanov, a passionate Backend Developer with expertise in building server-side applications. I enjoy solving complex problems and creating efficient solutions that drive business value.',
-    'about.p2': 'With a strong foundation in and related technologies, I specialize in developing backend systems and RESTful APIs. I\'m committed to writing clean, maintainable code and following best practices in software development.',
+    'about.p2': 'With a strong foundation in and related technologies, I specialize in developing backend systems. I\'m committed to writing clean, maintainable code and following best practices in software development.',
     'about.p3': 'When I\'m not coding, you can find me exploring new technologies.',
     'about.cta': 'Get In Touch',
     'about.backend': 'Backend Development',
