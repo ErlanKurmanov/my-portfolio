@@ -32,7 +32,7 @@ const Projects = () => {
       descKey: "project2.desc",
       image: "https://www.meistertask.com/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F289344%2F2640x900%2F536bd0b3c4%2Fmeistertask_homepage-hero_en.png%2Fm%2F%3Fv%3D2&w=1920&q=75",
       tags: ["Java", "Spring Boot", "Spring Security", "Spring Data JPA", "PostgreSQL"],
-      github: "https://github.com/ErlanKurmanov",
+      github: "https://github.com/ErlanKurmanov/task-management-system-project",
       
     },
     {
