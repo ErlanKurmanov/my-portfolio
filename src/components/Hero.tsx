@@ -66,7 +66,7 @@ const Hero = () => {
           <h3 className="text-2xl md:text-3xl text-gray-300 mb-8">{t('hero.role')}</h3>
           
           <div className="flex justify-center md:justify-start space-x-4 mb-12">
-            <a href="https://github.com/ErlanKurmanov" target="_blank" rel="noopener noreferrer" className="bg-gray-800 hover:bg-gray-700 p-3 rounded-full transition-all duration-300 hover:scale-110">
+            <a href="https://github.com/ErlanKurmanov?tab=repositories" target="_blank" rel="noopener noreferrer" className="bg-gray-800 hover:bg-gray-700 p-3 rounded-full transition-all duration-300 hover:scale-110">
               <Github size={24} />
             </a>
             <a href="https://www.linkedin.com/in/erlan-kurmanov-561aa3233/" target="_blank" rel="noopener noreferrer" className="bg-gray-800 hover:bg-gray-700 p-3 rounded-full transition-all duration-300 hover:scale-110">
