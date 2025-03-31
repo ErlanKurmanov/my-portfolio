@@ -9,15 +9,16 @@ const Skills = () => {
   const { t } = useLanguage();
   
   const technicalSkills: Skill[] = [
+    { name: "PHP" },
+    { name: "Laravel" },
     { name: "Java" },
     { name: "Spring Boot" },
     { name: "PostgreSQL" },
-    { name: "JPA" },
     
   ];
   
   const otherSkills = [
-    "Maven", "PostgreSQL","Git", "PHP"
+    "Git", "HTML", "CSS"
   ];
 
   return (

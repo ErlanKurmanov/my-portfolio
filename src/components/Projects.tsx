@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 import { useLanguage } from '../context/LanguageContext';
+import carWebsiteImage from "../assets/images/carWebsite.png";
+
 
 interface Project {
   id: number;
@@ -44,14 +46,14 @@ const Projects = () => {
       github: "https://github.com/ErlanKurmanov/Console-apps/tree/master/src",
       // demo: "https://example.com"
     },
-    // {
-    //   id: 4,
-    //   titleKey: "project4.title",
-    //   descKey: "project4.desc",
-    //   image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    //   tags: ["Java", "Spring Boot", "MySQL", "Redis", "AWS S3"],
-    //   github: "https://github.com/ErlanKurmanov"
-    // }
+    {
+      id: 4,
+      titleKey: "project4.title",
+      descKey: "project4.desc",
+      image: carWebsiteImage,
+      tags: ["PHP", "Laravel", "PostgreSQL", "HTML", "CSS"],
+      github: "https://github.com/ErlanKurmanov/buy-sell-cars"
+    }
   ];
 
   return (
