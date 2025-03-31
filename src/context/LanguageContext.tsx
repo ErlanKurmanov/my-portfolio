@@ -71,7 +71,7 @@ const translations = {
     'project2.desc': '',
     'project3.title': 'Консольные приложения',
     // 'project3.desc': 'Писал консольные приложения для освоении языка java.',
-    'project4.title': 'Сайт покупки/продажа авто',
+    'project4.title': 'Сайт покупки/продажи авто',
     'project4.desc': '.'
   },
   en: {
